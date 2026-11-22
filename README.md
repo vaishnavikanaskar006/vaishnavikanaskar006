@@ -27,12 +27,6 @@
 - VS Code
 - MySQL
 
-## Projects
-- 🛍️ Novelty Shop
-- 📱 Android Application
-- 🌐 Web Development Projects
-- 🐍 Python Programs
-
 ## Goals
 - Improve my coding skills
 - Build real-world projects
